@@ -341,3 +341,9 @@ FROM patients pa
 group by pr.province_id
 order by patient_count desc;
 -- 
+SELECT 
+CONCAT
+AS
+FROM
+JOIN ON
+JOIN ON
